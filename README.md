@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 🤖 Ibrahim Movik | AI Engineer & Computer Engineering Student
-**[Politeknik Negeri Indramayu]([https://www.polindra.ac.id/](https://polindra.ac.id/))** | D4 Teknologi Rekayasa Komputer
+**[Politeknik Negeri Indramayu](https://polindra.ac.id/)** | D4 Teknologi Rekayasa Komputer
 
 ---
 
@@ -52,7 +52,7 @@ Berikut adalah kurasi sertifikasi profesional yang telah saya selesaikan untuk m
 ### 💻 Software Engineering & Logic (Dicoding)
 * **[Belajar Dasar AI](https://www.dicoding.com/certificates/81P2593EYPOY)** – Implementasi dasar Machine Learning.
 * **[Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/RVZKGN7KQXD5)** – Manajemen kode dan kolaborasi profesional.
-* **[Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/NVP7JR5KOXR0)](https://www.dicoding.com/certificates/NVP7JR5KOXR0)** – Penguatan fondasi *computational thinking*.
+* **[Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/NVP7JR5KOXR0)** – Penguatan fondasi *computational thinking*.
 * **[Dasar Pemrograman Software](https://www.dicoding.com/certificates/L4PQ2D5NOZO1)** – Alur kerja profesional pengembang perangkat lunak.
 
 ---
