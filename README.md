@@ -37,20 +37,18 @@ Seorang pengembang sistem cerdas yang berfokus pada arsitektur **Generative AI**
 ​🎓 Pengenalan ke Logika Pemrograman (Logic 101)
 ​🎓 Memulai Dasar Pemrograman Software
 
-​📈 Engineering Analytics
-​<p align="left">
-<a href="https://www.google.com/search?q=https://github.com/imovik">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-eight-theta.vercel.app/api%3Fusername%3Dimovik%26show_icons%3Dtrue%26theme%3Dalgolia%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/%3Fusername%3Dimovik%26layout%3Dcompact%26theme%3Dalgolia"/>
-</a>
-</p>
 
 ## 📊 AI Development Lifecycle (Workflow)
 Pendekatan sistematis saya dalam merekayasa model kecerdasan buatan:
 
-```mermaid
+
 graph LR
     A[Data Ingestion] --> B[Logical Modeling]
     B --> C[AI Architecture]
     C --> D[Ethical Audit]
     D --> E[Deployment]
+
+​📞 Connect with Me
+​LinkedIn: linkedin.com/in/ibrahimmovik
+​Email: ibrahimmovik.contact@gmail.com
+​Dibuat dengan dedikasi untuk inovasi teknologi | © 2026 Ibrahim Movik
