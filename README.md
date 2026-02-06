@@ -57,16 +57,6 @@ Berikut adalah kurasi sertifikasi profesional yang telah saya selesaikan untuk m
 
 ---
 
-## 📊 Visualisasi Alur Kerja (Workflow)
-Saya menggunakan pendekatan terstruktur dalam setiap pengembangan proyek:
-
-```mermaid
-graph LR
-    A[Analisis Masalah] --> B[Logika Algoritma]
-    B --> C[Pengembangan AI/Code]
-    C --> D[Audit Keamanan & Etika]
-    D --> E[Deployment & Solusi]
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/penuliscode">
