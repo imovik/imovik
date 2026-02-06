@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 🤖 Ibrahim Movik | AI Engineer & Computer Engineering Student
-**[Politeknik Negeri Indramayu](https://www.polindra.ac.id/)** | D4 Teknologi Rekayasa Komputer
+**[Politeknik Negeri Indramayu]([https://www.polindra.ac.id/](https://polindra.ac.id/))** | D4 Teknologi Rekayasa Komputer
 
 ---
 
@@ -35,8 +35,8 @@ Saya adalah seorang pengembang yang berfokus pada **Artificial Intelligence** da
 | **Artificial Intelligence** | Generative AI, NLP, AI Ethics, Machine Learning |
 | **Bahasa Pemrograman** | C++, Python, Shell Scripting |
 | **Version Control** | Git, GitHub |
-| **Sistem Operasi** | Linux Environment (Primary), Windows |
-| **Infrastructure** | Advan Workplus (Ryzen 7 7735HS), Arduino, ESP32 |
+| **Sistem Operasi** | Linux Environment, macOS, Windows (Primary), |
+
 
 ---
 
@@ -45,15 +45,15 @@ Berikut adalah kurasi sertifikasi profesional yang telah saya selesaikan untuk m
 
 ### 🤖 Artificial Intelligence (IBM SkillsBuild)
 * **[Natural Language Processing (NLP) & Generative AI](https://skills.yourlearning.ibm.com/certificate/share/6a25b7f516ewogICJsZWFybmVyQ05VTSIgOiAiNTY2MDgxMVJFRyIsCiAgIm9iamVjdElkIiA6ICJBTE0tQ09VUlNFXzQwNTg5MjEiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIKfQc35a1a394f-10)** – Fokus pada model bahasa tingkat lanjut.
-* **[Introduction to Artificial Intelligence]([URL_SERTIFIKAT_KAMU](https://skills.yourlearning.ibm.com/certificate/share/042a4caeefewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV80MDU4OTE4IiwKICAibGVhcm5lckNOVU0iIDogIjU2NjA4MTFSRUciLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIKfQec3266f188-10))** – Fondasi teori dan arsitektur AI.
-* **[Introduction to Generative AI]([URL_SERTIFIKAT_KAMU](https://skills.yourlearning.ibm.com/certificate/share/bd4eeadb0dewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI1NjYwODExUkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfNDA1ODg1OSIKfQ0dcf0cd998-10))** – Eksplorasi teknologi AI generatif modern.
-* **[AI Ethics](URL_SERTIFIKAT_KAMU)** – Penerapan etika dan tanggung jawab dalam pengembangan AI.
+* **[Introduction to Artificial Intelligence](https://skills.yourlearning.ibm.com/certificate/share/042a4caeefewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV80MDU4OTE4IiwKICAibGVhcm5lckNOVU0iIDogIjU2NjA4MTFSRUciLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIKfQec3266f188-10)** – Fondasi teori dan arsitektur AI.
+* **[Introduction to Generative AI](https://skills.yourlearning.ibm.com/certificate/share/bd4eeadb0dewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI1NjYwODExUkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfNDA1ODg1OSIKfQ0dcf0cd998-10)** – Eksplorasi teknologi AI generatif modern.
+* **[AI Ethics](https://skills.yourlearning.ibm.com/certificate/share/2a0edc93b5ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI1NjYwODExUkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfNDA1ODkyNyIKfQ690a1a4c1d-10)** – Penerapan etika dan tanggung jawab dalam pengembangan AI.
 
 ### 💻 Software Engineering & Logic (Dicoding)
-* **[Belajar Dasar AI]([URL_SERTIFIKAT_KAMU](https://www.dicoding.com/certificates/81P2593EYPOY))** – Implementasi dasar Machine Learning.
-* **[Belajar Dasar Git dengan GitHub]([URL_SERTIFIKAT_KAMU](https://www.dicoding.com/certificates/RVZKGN7KQXD5))** – Manajemen kode dan kolaborasi profesional.
-* **[Pengenalan ke Logika Pemrograman]([[URL_SERTIFIKAT_KAMU](https://www.dicoding.com/certificates/NVP7JR5KOXR0)](https://www.dicoding.com/certificates/NVP7JR5KOXR0))** – Penguatan fondasi *computational thinking*.
-* **[Dasar Pemrograman Software]([URL_SERTIFIKAT_KAMU](https://www.dicoding.com/certificates/L4PQ2D5NOZO1))** – Alur kerja profesional pengembang perangkat lunak.
+* **[Belajar Dasar AI](https://www.dicoding.com/certificates/81P2593EYPOY)** – Implementasi dasar Machine Learning.
+* **[Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/RVZKGN7KQXD5)** – Manajemen kode dan kolaborasi profesional.
+* **[Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/NVP7JR5KOXR0)](https://www.dicoding.com/certificates/NVP7JR5KOXR0)** – Penguatan fondasi *computational thinking*.
+* **[Dasar Pemrograman Software](https://www.dicoding.com/certificates/L4PQ2D5NOZO1)** – Alur kerja profesional pengembang perangkat lunak.
 
 ---
 
