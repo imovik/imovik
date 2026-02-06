@@ -1,36 +1,34 @@
-# 🤖 Ibrahim Movik | AI Engineer & Computer Engineering Student
+# 🧠 Ibrahim Movik | AI Engineer
 **[Politeknik Negeri Indramayu](https://polindra.ac.id/)** | D4 Teknologi Rekayasa Komputer
 
 ---
 
-## 👨‍💻 Profil Profesional
-Saya adalah seorang pengembang yang berfokus pada **Artificial Intelligence** dan **Cyber Security**. Saya memiliki dedikasi untuk membangun sistem cerdas yang aman, efisien, dan transparan. Pendekatan saya dalam rekayasa teknologi selalu mengedepankan logika yang kuat serta visualisasi teknis yang sistematis.
+## 🔬 Professional Synopsis
+Seorang pengembang sistem cerdas yang berfokus pada arsitektur **Generative AI** dan **Natural Language Processing (NLP)**. Saya mendedikasikan diri untuk membangun solusi berbasis data yang tidak hanya memiliki performa tinggi (high-performance), namun juga mematuhi prinsip **AI Ethics** dan keamanan data yang ketat.
 
-- 🔭 **Sedang Mengerjakan:** Riset mandiri mengenai implementasi AI pada sistem keamanan jaringan.
-- 🌱 **Sedang Mempelajari:** Deep Learning dan penguatan algoritma C++.
-- 🛡️ **Komunitas:** Anggota aktif komunitas Cyber Security **Formikat** dan Klub Robotika Polindra.
-- 🧠 **Filosofi:** Mengubah kompleksitas teknis menjadi solusi digital yang logis dan terukur.
-- 💬 **Tanya Saya Tentang:** AI Ethics, NLP, atau optimalisasi sistem Linux.
-- 📫 **Kontak:** [ibrahimmovik.contact@gmail.com](mailto:ibrahimmovik.contact@gmail.com)
+- 🛠️ **Current Focus:** Mengoptimalkan alur kerja pengolahan bahasa alami menggunakan model generatif.
+- 📚 **Learning Path:** Deep Learning arsitektur, Advanced Python for Data Science, dan optimalisasi algoritma pada lingkungan Linux.
+- 🛡️ **Security Mindset:** Mengintegrasikan protokol keamanan sistem dari komunitas **Formikat** ke dalam implementasi AI.
+- 🧠 **Philosophy:** Mengabstraksi algoritma kompleks menjadi visualisasi logika yang transparan dan dapat dipertanggungjawabkan.
 
 ---
 
-## 🛠️ Tech Stack & Ekosistem
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-| Bidang | Teknologi & Alat |
+## 🛠️ AI Technical Stack
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Artificial Intelligence** | Generative AI, NLP, AI Ethics, Machine Learning |
-| **Bahasa Pemrograman** | C++, Python, Shell Scripting |
-| **Version Control** | Git, GitHub |
-| **Sistem Operasi** | Linux Environment (Primary), macOS, Windows |
+| **Artificial Intelligence** | Generative AI, NLP, Machine Learning Foundations, AI Ethics |
+| **Development** | Python (Primary), C++, Bash Scripting, Linux Environment |
+| **Engineering Tools** | Git, GitHub, VS Code, Model Documentation |
+| **Core Logic** | Computational Thinking, Data Structure, Version Control |
 
 ---
 
-## 📊 Visualisasi Alur Kerja (Workflow)
+## 📊 AI Development Lifecycle (Workflow)
+Pendekatan sistematis saya dalam merekayasa model kecerdasan buatan:
+
 ```mermaid
 graph LR
-    A[Analisis Masalah] --> B[Logika Algoritma]
-    B --> C[Pengembangan AI/Code]
-    C --> D[Audit Keamanan & Etika]
-    D --> E[Deployment & Solusi]
+    A[Data Ingestion] --> B[Logical Modeling]
+    B --> C[AI Architecture]
+    C --> D[Ethical Audit]
+    D --> E[Deployment]
