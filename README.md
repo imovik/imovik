@@ -25,7 +25,7 @@ Saya adalah seorang pengembang yang berfokus pada **Artificial Intelligence** da
 
 * 🚀 **Spesialisasi:** Natural Language Processing (NLP), Generative AI, dan AI Ethics.
 * 🛡️ **Keamanan:** Anggota aktif komunitas Cyber Security **Formikat**.
-* 🧠 **Filosofi:** Mengubah kompleksitas teknis menjadi solusi digital yang logis dan terukur.
+* 🧠 **Filosofi:** Mengubah kompleksitas teknis menjadi solusi digital yang logis dan terukur
 
 ---
 
